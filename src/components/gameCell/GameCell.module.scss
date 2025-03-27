@@ -1,0 +1,10 @@
+.cell {
+  background-color: $background-color;
+  font-size: 58px;
+  border: 3px solid $border-color;
+  cursor: pointer;
+
+  &--win {
+    background-color: $win-color;
+  }
+}

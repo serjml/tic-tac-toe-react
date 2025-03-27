@@ -1,0 +1,11 @@
+.symbol {
+  display: inline-block;
+  width: 50px;
+
+  &--x {
+    color: $symbol-x-color;
+  }
+  &--o {
+    color: $symbol-o-color;
+  }
+}
